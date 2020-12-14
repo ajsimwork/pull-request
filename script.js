@@ -1,5 +1,5 @@
 console.log("I'm commiting this first!");
 
-function berryGoodFunction(berry) {
-    console.log(`${berry.type} is very good!!`);
+function berryChoice(berry) {
+    console.log(`You choose a ${berry.type}!`);
 }
