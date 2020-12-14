@@ -1,5 +1,5 @@
 console.log("I'm commiting this first!");
 
-function whichBerry(berry) {
-    console.log(`You just ate a ${berry.type}!`);
+function berryGoodFunction(berry) {
+    console.log(`${berry.type} is very good!!`);
 }
