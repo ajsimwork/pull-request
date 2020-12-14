@@ -1,1 +1,1 @@
-alert("No, this is the first commit!");
+console.log("I'm commiting this first!");
