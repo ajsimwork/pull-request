@@ -1,0 +1,1 @@
+alert("The first line of this code is an alert!");
