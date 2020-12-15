@@ -1,1 +1,1 @@
-alert("The first line of this code is an alert!");
+console.log('the first line is a console log');
